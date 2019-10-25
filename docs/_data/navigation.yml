@@ -31,7 +31,7 @@ part_0:
 part_1:
   - title: "Part One"
     children: 
-      - title: "Overview of Part One"
+      - title: "Hi Vanessa!"
         url: /part-one/overview/
       - title: "Prerequisites Check"
         url: /part-one/prerequisites-check/

@@ -1,5 +1,5 @@
 ---
-title: "Part One"
+title: "Part One Vanessa"
 permalink: /part-one/overview/
 excerpt: "Excerpt TBA"
 last_modified_at: 2019-10-25
@@ -7,7 +7,7 @@ toc: false
 classes: wide
 ---
 
-**Time Check:** This workbook has a total of Three Units and and should take approx. 90 minutes (1h 30m) to complete.
+**Time Vanessa Check:** This workbook has a total of Three Units and and should take approx. 90 minutes (1h 30m) to complete.
 {: .notice--success}
 
 <!-- Put this wherever you would like your player to appear -->
