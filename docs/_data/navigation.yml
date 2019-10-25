@@ -1,0 +1,199 @@
+# main links
+main:
+  - title: "Prerequisites"
+    url: /prerequisites/overview/
+  - title: "Part One"
+    url: /part-one/overview/
+  - title: "Part Two"
+    url: /part-two/overview/
+
+# Home Page Links
+home:
+  - title: "Prerequisites"
+    url: /prerequisites/overview/
+  - title: "Part One"
+    url: /part-one/overview/
+  - title: "Part Two"
+    url: /part-two/overview/
+
+# Part Zero (Prerequisites)
+part_0:
+  - title: "Prerequisites"
+    children: 
+      - title: "Overview"
+        url: /prerequisites/overview/
+      - title: "Prerequisites for Part One"
+        url: /prerequisites/part-one/
+      - title: "Prerequisites for Part Two"
+        url: /prerequisites/part-two/
+
+# Part One (Title of Part One)
+part_1:
+  - title: "Part One"
+    children: 
+      - title: "Overview of Part One"
+        url: /part-one/overview/
+      - title: "Prerequisites Check"
+        url: /part-one/prerequisites-check/
+
+  - title: "Unit 1: Unit One Title"
+    children:
+      - title: "Unit Overview"
+        url: /part-one/unit-one/overview/
+      - title: "Exercise One"
+        url: /part-one/unit-one/exercise-one/
+      - title: "Exercise Two"
+        url: /part-one/unit-one/exercise-two/
+      - title: "Exercise Three"
+        url: /part-one/unit-one/exercise-three/
+
+  - title: "Unit 2: Unit Two Title"
+    children: 
+      - title: "Unit Overview"
+        url: /part-one/unit-two/overview/
+      - title: "Exercise One"
+        url: /part-one/unit-two/exercise-one/
+      - title: "Exercise Two"
+        url: /part-one/unit-two/exercise-two/
+      - title: "Exercise Three"
+        url: /part-one/unit-two/exercise-three/
+        
+  - title: "Unit 3: Unit Three Title"
+    children: 
+      - title: "Unit Overview"
+        url: /part-one/unit-three/overview/
+      - title: "Exercise One"
+        url: /part-one/unit-three/exercise-one/
+      - title: "Exercise Two"
+        url: /part-one/unit-three/exercise-two/
+      - title: "Exercise Three"
+        url: /part-one/unit-three/exercise-three/
+
+  - title: "Closing"
+    children: 
+      - title: "Review What You've Learned"
+        url: /part-one/closing/review/
+      - title: "Ideas for Further Study"
+        url: /part-one/closing/further-study/
+      - title: "Prepare for Part Two"
+        url: /part-one/closing/prepare-for-part-two/
+
+
+# Part Two (Title of Part Two)
+part_2:
+  - title: "Part Two"
+    children: 
+      - title: "Overview of Part Two"
+        url: /part-two/overview/
+      - title: "Prerequisites Check"
+        url: /part-two/prerequisites-check/
+
+  - title: "Unit 1: Unit One Title"
+    children:
+      - title: "Unit Overview"
+        url: /part-two/unit-one/overview/
+      - title: "Exercise One"
+        url: /part-two/unit-one/exercise-one/
+      - title: "Exercise Two"
+        url: /part-two/unit-one/exercise-two/
+      - title: "Exercise Three"
+        url: /part-two/unit-one/exercise-three/
+
+  - title: "Unit 2: Unit Two Title"
+    children:
+      - title: "Unit Overview"
+        url: /part-two/unit-two/overview/
+      - title: "Exercise One"
+        url: /part-two/unit-two/exercise-one/
+      - title: "Exercise Two"
+        url: /part-two/unit-two/exercise-two/
+      - title: "Exercise Three"
+        url: /part-two/unit-two/exercise-three/
+
+  - title: "Unit 3: Unit Three Title"
+    children:
+      - title: "Unit Overview"
+        url: /part-two/unit-three/overview/
+      - title: "Exercise One"
+        url: /part-two/unit-three/exercise-one/
+      - title: "Exercise Two"
+        url: /part-two/unit-three/exercise-two/
+      - title: "Exercise Three"
+        url: /part-two/unit-three/exercise-three/
+
+  - title: "Closing"
+    children: 
+      - title: "Review What You've Learned"
+        url: /part-two/closing/review/
+      - title: "Ideas for Further Study"
+        url: /part-two/closing/further-study/
+      - title: "Prepare for Part Two"
+        url: /part-two/closing/prepare-for-part-two/
+
+
+# LEFT NAV EXAMPLE
+workbook_EXAMPLE:
+  - title: Getting Started
+    children:
+      - title: "Quick-Start Guide"
+        url: /docs/quick-start-guide/
+      - title: "Structure"
+        url: /docs/structure/
+      - title: "Installation"
+        url: /docs/installation/
+      - title: "Upgrading"
+        url: /docs/upgrading/
+  - title: Customization
+    children:
+      - title: "Configuration"
+        url: /docs/configuration/
+      - title: "Overriding Theme Defaults"
+        url: /docs/overriding-theme-defaults/
+      - title: "Navigation"
+        url: /docs/navigation/
+      - title: "UI Text"
+        url: /docs/ui-text/
+      - title: "Authors"
+        url: /docs/authors/
+      - title: "Layouts"
+        url: /docs/layouts/
+  - title: Content
+    children:
+      - title: "Working with Posts"
+        url: /docs/posts/
+      - title: "Working with Pages"
+        url: /docs/pages/
+      - title: "Working with Collections"
+        url: /docs/collections/
+      - title: "Helpers"
+        url: /docs/helpers/
+      - title: "Utility Classes"
+        url: /docs/utility-classes/
+  - title: Extras
+    children:
+      - title: "Stylesheets"
+        url: /docs/stylesheets/
+      - title: "JavaScript"
+        url: /docs/javascript/
+  - title: Meta
+    children:
+      - title: "History"
+        url: /docs/history/
+      - title: "Contributing"
+        url: /docs/contributing/
+      - title: "Old 2.2 Docs"
+        url: /docs/docs-2-2/
+      - title: "License"
+        url: /docs/license/
+      - title: "Terms &amp; Privacy Policy"
+        url: /terms/
+  - title: "XXXXXXXXXX"
+    children: 
+      - title: "xxxxxxxxxx"
+        url: /part-one/xxxxxxxxxx/
+      - title: "xxxxxxxxxx"
+        url: /part-one/xxxxxxxxxx/
+      - title: "xxxxxxxxxx"
+        url: /part-one/xxxxxxxxxx/
+      - title: "xxxxxxxxxx"
+        url: /part-one/xxxxxxxxxx/
