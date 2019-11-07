@@ -1,82 +1,82 @@
 # main links
 main:
-  - title: "Prerequisites"
-    url: /prerequisites/overview/
-  - title: "Part One"
-    url: /part-one/overview/
-  - title: "Part Two"
-    url: /part-two/overview/
+#  - title: "Prerequisites"
+#    url: /prerequisites/overview/
+  - title: "Setting Up Your Environment"
+    url: /setup/overview/
+  - title: "Visualizing App Analytics Data"
+    url: /visualization/overview/
 
 # Home Page Links
 home:
-  - title: "Prerequisites"
-    url: /prerequisites/overview/
-  - title: "Part One"
-    url: /part-one/overview/
-  - title: "Part Two"
-    url: /part-two/overview/
+#  - title: "Prerequisites"
+#    url: /prerequisites/overview/
+  - title: "Setting Up Your Environment"
+    url: /setup/overview/
+  - title: "Visualizing App Analytics Data"
+    url: /visualization/overview/
 
 # Part Zero (Prerequisites)
-part_0:
-  - title: "Prerequisites"
-    children: 
-      - title: "Overview"
-        url: /prerequisites/overview/
-      - title: "Prerequisites for Part One"
-        url: /prerequisites/part-one/
-      - title: "Prerequisites for Part Two"
-        url: /prerequisites/part-two/
+#part_0:
+#  - title: "Prerequisites"
+#    children: 
+#      - title: "Overview"
+#        url: /prerequisites/overview/
+#      - title: "Prerequisites for Part One"
+#        url: /prerequisites/part-one/
+#      - title: "Prerequisites for Part Two"
+#        url: /prerequisites/part-two/
 
 # Part One (Title of Part One)
 part_1:
-  - title: "Part One"
+  - title: "Setting Up Your Environment"
     children: 
-      - title: "Hi Vanessa!"
-        url: /part-one/overview/
-      - title: "Prerequisites Check"
-        url: /part-one/prerequisites-check/
+      - title: "Overview"
+        url: /setup/overview/
+#      - title: "Prerequisites Check"
+#        url: /setup/prerequisites-check/
 
-  - title: "Unit 1: Unit One Title"
+  - title: "Getting a Hands-on Org"
     children:
       - title: "Unit Overview"
-        url: /part-one/unit-one/overview/
-      - title: "Exercise One"
-        url: /part-one/unit-one/exercise-one/
-      - title: "Exercise Two"
-        url: /part-one/unit-one/exercise-two/
-      - title: "Exercise Three"
-        url: /part-one/unit-one/exercise-three/
+        url: /setup/unit-one/overview/
+      - title: "Request a Hands-on Org"
+        url: /setup/unit-one/exercise-one/
+      - title: "Save Your Login Info"
+        url: /setup/unit-one/exercise-two/
+      - title: "Validate Your Hands-on Org"
+        url: /setup/unit-one/exercise-three/
 
-  - title: "Unit 2: Unit Two Title"
+  - title: "Importing App Analytics Log Data"
     children: 
       - title: "Unit Overview"
-        url: /part-one/unit-two/overview/
-      - title: "Exercise One"
-        url: /part-one/unit-two/exercise-one/
-      - title: "Exercise Two"
-        url: /part-one/unit-two/exercise-two/
-      - title: "Exercise Three"
-        url: /part-one/unit-two/exercise-three/
+        url: /setup/unit-two/overview/
+      - title: "Create an Empty Einstein Analytics App"
+        url: /setup/unit-two/exercise-one/
+      - title: "Create an App Analytics Dataset"
+        url: /setup/unit-two/exercise-two/
+      - title: "Verify That Your Dataset Has The Required Columns"
+        url: /setup/unit-two/exercise-three/
         
-  - title: "Unit 3: Unit Three Title"
+  - title: "Combining App Analytics and LMA Data"
     children: 
       - title: "Unit Overview"
-        url: /part-one/unit-three/overview/
-      - title: "Exercise One"
-        url: /part-one/unit-three/exercise-one/
-      - title: "Exercise Two"
-        url: /part-one/unit-three/exercise-two/
-      - title: "Exercise Three"
-        url: /part-one/unit-three/exercise-three/
+        url: /setup/unit-three/overview/
+      - title: "Open the Pre-Made Log-LMA Dataflow"
+        url: /setup/unit-three/exercise-one/
+      - title: "Examine the Links Between LMA & App Analytics Data"
+        url: /setup/unit-three/exercise-two/
+      - title: "Run the Dataflow"
+        url: /setup/unit-three/exercise-three/
 
-  - title: "Closing"
-    children: 
-      - title: "Review What You've Learned"
-        url: /part-one/closing/review/
-      - title: "Ideas for Further Study"
-        url: /part-one/closing/further-study/
-      - title: "Prepare for Part Two"
-        url: /part-one/closing/prepare-for-part-two/
+#  - title: "Closing"
+#    children: 
+#      - title: "Review What You've Learned"
+#        url: /setup/closing/review/
+#      - title: "Ideas for Further Study"
+#        url: /setup/closing/further-study/
+#      - title: "Prepare for Part Two"
+#        url: /setup/closing/prepare-for-part-two/
 
 
 # Part Two (Title of Part Two)

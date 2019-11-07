@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YOUR_WORKBOOK_TITLE"
+title                    : "Getting Started With App Analytics"
 title_separator          : "-"
-name                     : "YOUR_NAME_OR_ORGANIZATION"
-description              : "SHORT_DESCRIPTION_OF_YOUR_WORKBOOK"
+name                     : "Salesforce ISV TE Experts"
+description              : "Helps get you started with AppExchange App Analytics"
 url                      : "https://sfdx-isv.github.io"       # The base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/app-analytics-workshop"          # The subpath of your site, e.g. "/blog"
 repository               : "sfdx-isv/app-analytics-workshop"  # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
