@@ -79,7 +79,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "YourTwitterHandle"
+  username               : "AppExchange"
 facebook:
   username               :
   app_id                 :
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "ISV Technical Enablement"
+  name             : "AppExchange Technical Enablement Experts"
   avatar           : "/assets/images/VMC-500x500.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Your Bio Here"
   location         : "Your City, Your State"
