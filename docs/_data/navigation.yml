@@ -23,9 +23,9 @@ home:
 #      - title: "Overview"
 #        url: /prerequisites/overview/
 #      - title: "Prerequisites for Part One"
-#        url: /prerequisites/part-one/
+#        url: /prerequisites/setup/
 #      - title: "Prerequisites for Part Two"
-#        url: /prerequisites/part-two/
+#        url: /prerequisites/visualization/
 
 # Part One (Title of Part One)
 part_1:
@@ -81,119 +81,62 @@ part_1:
 
 # Part Two (Title of Part Two)
 part_2:
-  - title: "Part Two"
+  - title: "Visualizing App Analytics Data"
     children: 
-      - title: "Overview of Part Two"
-        url: /part-two/overview/
-      - title: "Prerequisites Check"
-        url: /part-two/prerequisites-check/
+      - title: "Overview"
+        url: /visualization/overview/
+#      - title: "Prerequisites Check"
+#        url: /visualization/prerequisites-check/
 
-  - title: "Unit 1: Unit One Title"
+  - title: "Identifying Top Customers"
     children:
       - title: "Unit Overview"
-        url: /part-two/unit-one/overview/
-      - title: "Exercise One"
-        url: /part-two/unit-one/exercise-one/
-      - title: "Exercise Two"
-        url: /part-two/unit-one/exercise-two/
-      - title: "Exercise Three"
-        url: /part-two/unit-one/exercise-three/
+        url: /visualization/unit-one/overview/
+      - title: "Create a Lens From App Analytics Data"
+        url: /visualization/unit-one/exercise-one/
+      - title: "Identify Customers With the Most Overall Users"
+        url: /visualization/unit-one/exercise-two/
+      - title: "Identify Customers With the Most Active Users"
+        url: /visualization/unit-one/exercise-three/
 
-  - title: "Unit 2: Unit Two Title"
+  - title: "Measuring Adoption & Feature Utilization"
     children:
       - title: "Unit Overview"
-        url: /part-two/unit-two/overview/
-      - title: "Exercise One"
-        url: /part-two/unit-two/exercise-one/
-      - title: "Exercise Two"
-        url: /part-two/unit-two/exercise-two/
-      - title: "Exercise Three"
-        url: /part-two/unit-two/exercise-three/
+        url: /visualization/unit-two/overview/
+      - title: "Create a Lens From App Analytics Data"
+        url: /visualization/unit-two/exercise-one/
+      - title: "Measure App Adoption Over Time"
+        url: /visualization/unit-two/exercise-two/
+      - title: "Measure Adoption of a Specific Feature"
+        url: /visualization/unit-two/exercise-three/
 
-  - title: "Unit 3: Unit Three Title"
+  - title: "Discovering Risks & Opportunities"
     children:
       - title: "Unit Overview"
-        url: /part-two/unit-three/overview/
-      - title: "Exercise One"
-        url: /part-two/unit-three/exercise-one/
-      - title: "Exercise Two"
-        url: /part-two/unit-three/exercise-two/
-      - title: "Exercise Three"
-        url: /part-two/unit-three/exercise-three/
+        url: /visualization/unit-three/overview/
+      - title: "Create a Lens From App Analytics Data"
+        url: /visualization/unit-three/exercise-one/
+      - title: "Discover Which Customers Need More Licenses"
+        url: /visualization/unit-three/exercise-two/
+      - title: "Discover Which Customers Are at Risk of Attrition"
+        url: /visualization/unit-three/exercise-three/
+
+  - title: "Creating a Dashboard for Key Insights"
+    children:
+      - title: "Unit Overview"
+        url: /visualization/unit-four/overview/
+      - title: "Create an Empty Dashboard"
+        url: /visualization/unit-four/exercise-one/
+      - title: "Clip Lenses to the Dashboard"
+        url: /visualization/unit-four/exercise-two/
+      - title: "Customize and Save Your Dashboard"
+        url: /visualization/unit-four/exercise-three/
 
   - title: "Closing"
     children: 
       - title: "Review What You've Learned"
-        url: /part-two/closing/review/
+        url: /visualization/closing/review/
       - title: "Ideas for Further Study"
-        url: /part-two/closing/further-study/
-      - title: "Prepare for Part Two"
-        url: /part-two/closing/prepare-for-part-two/
-
-
-# LEFT NAV EXAMPLE
-workbook_EXAMPLE:
-  - title: Getting Started
-    children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
-  - title: Customization
-    children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Overriding Theme Defaults"
-        url: /docs/overriding-theme-defaults/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
-  - title: Content
-    children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
-  - title: Extras
-    children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
-  - title: Meta
-    children:
-      - title: "History"
-        url: /docs/history/
-      - title: "Contributing"
-        url: /docs/contributing/
-      - title: "Old 2.2 Docs"
-        url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
-      - title: "Terms &amp; Privacy Policy"
-        url: /terms/
-  - title: "XXXXXXXXXX"
-    children: 
-      - title: "xxxxxxxxxx"
-        url: /part-one/xxxxxxxxxx/
-      - title: "xxxxxxxxxx"
-        url: /part-one/xxxxxxxxxx/
-      - title: "xxxxxxxxxx"
-        url: /part-one/xxxxxxxxxx/
-      - title: "xxxxxxxxxx"
-        url: /part-one/xxxxxxxxxx/
+        url: /visualization/closing/further-study/
+#      - title: "Prepare for Part Two"
+#        url: /visualization/closing/prepare-for-part-two/
