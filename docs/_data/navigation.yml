@@ -69,10 +69,10 @@ part_1:
       - title: "Run the Dataflow"
         url: /setup/unit-three/exercise-three/
 
-#  - title: "Closing"
-#    children: 
-#      - title: "Review What You've Learned"
-#        url: /setup/closing/review/
+  - title: "Closing"
+    children: 
+      - title: "Review What You've Learned"
+        url: /setup/closing/review/
 #      - title: "Ideas for Further Study"
 #        url: /setup/closing/further-study/
 #      - title: "Prepare for Part Two"
