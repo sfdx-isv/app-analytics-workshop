@@ -1,5 +1,5 @@
 ---
-title: "Workshop Home Page"
+title: "ISV App Analytics HOW (Dreamforce’19)"
 permalink: /
 excerpt: "Overview of Workshop Prerequisites"
 last_modified_at: 2019-10-25
@@ -7,10 +7,16 @@ toc: false
 classes: wide
 ---
 
-There are are several pre-workshop activities that students **must** complete before the hands-on activities can be attempted.
+Workshop Overview
 
-* Prerequisite task one
-* Prerequisite task two
-* Prerequisite task three
+Part One: Setting Up Your Environment (?? mins)
+* Unit 1: Getting a Hands-on Org
+* Unit 2: Importing App Analytics Log Data 
+* Unit 3: Combining App Analytics and LMA Data
 
-The documentation in this section will help you complete these prerequisites.
+Part Two: Visualizing App Analytics Data (?? mins)
+* Unit 1: Identifying Top Customers
+* Unit 2: Measuring Adoption & Feature Utilization
+* Unit 3: Uncovering Risk & Opportunities
+* Unit 4: Creating a Dashboard for Key Insights
+
