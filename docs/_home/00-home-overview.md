@@ -9,7 +9,7 @@ classes: wide
 
 Workshop Overview
 
-**Part One: Setting Up Your Environment (9 mins)**
+**Part One: Setting Up Your Environment (10 mins)**
 * **Unit 1:** Getting a Hands-on Org
 * **Unit 2:** Importing App Analytics Log Data 
 * **Unit 3:** Combining App Analytics and LMA Data
