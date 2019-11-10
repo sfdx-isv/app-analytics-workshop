@@ -9,14 +9,14 @@ classes: wide
 
 Workshop Overview
 
-Part One: Setting Up Your Environment (?? mins)
-* Unit 1: Getting a Hands-on Org
-* Unit 2: Importing App Analytics Log Data 
-* Unit 3: Combining App Analytics and LMA Data
+**Part One: Setting Up Your Environment (9 mins)**
+* **Unit 1:** Getting a Hands-on Org
+* **Unit 2:** Importing App Analytics Log Data 
+* **Unit 3:** Combining App Analytics and LMA Data
 
-Part Two: Visualizing App Analytics Data (?? mins)
-* Unit 1: Identifying Top Customers
-* Unit 2: Measuring Adoption & Feature Utilization
-* Unit 3: Uncovering Risk & Opportunities
-* Unit 4: Creating a Dashboard for Key Insights
+**Part Two: Visualizing App Analytics Data (25 mins)**
+* **Unit 1:** Identifying Top Customers
+* **Unit 2:** Measuring Adoption & Feature Utilization
+* **Unit 3:** Uncovering Risk & Opportunities
+* **Unit 4:** Creating a Dashboard for Key Insights
 
