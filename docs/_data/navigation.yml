@@ -55,7 +55,7 @@ part_1:
         url: /setup/unit-two/exercise-one/
       - title: "Create an App Analytics Dataset"
         url: /setup/unit-two/exercise-two/
-      - title: "Verify That Your Dataset Has The Required Columns"
+      - title: "Validate Your Data Set & Upload"
         url: /setup/unit-two/exercise-three/
         
   - title: "Combining App Analytics and LMA Data"
