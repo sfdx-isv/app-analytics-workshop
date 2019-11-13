@@ -8,7 +8,7 @@ toc: false
 classes: wide
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/CODEY_SPLASH.png
+  overlay_image: /assets/images/CODEY_SPLASH3.png
   actions:
     - label: "Begin Workshop"
       url: "/setup/overview/"
