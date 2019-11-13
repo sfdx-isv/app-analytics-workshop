@@ -1,13 +1,18 @@
 ---
-title: "ISV App Analytics HOW (Dreamforce’19)"
+title: "Getting Started With App Analytics"
 permalink: /
-excerpt: "Overview of Workshop Prerequisites"
-last_modified_at: 2019-10-25
+layout: splash
+excerpt: "Brought to you by the ISV Technical Enablement Team"
+last_modified_at: 2019-11-06
 toc: false
 classes: wide
+header:
+  overlay_color: "#5e616c"
+  overlay_image: /assets/images/CODEY_SPLASH.png
+  actions:
+    - label: "Begin Workshop"
+      url: "/setup/overview/"
 ---
-
-Workshop Overview
 
 **Part One: Setting Up Your Environment (8 mins)**
 * **Unit 1:** Getting a Hands-on Org
@@ -19,4 +24,3 @@ Workshop Overview
 * **Unit 2:** Measuring Adoption & Feature Utilization
 * **Unit 3:** Uncovering Risk & Opportunities
 * **Unit 4:** Creating a Dashboard for Key Insights
-
