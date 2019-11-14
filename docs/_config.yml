@@ -84,7 +84,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/OpenGraph_Image.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -96,7 +96,7 @@ social:
 analytics:
   provider               : # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : # ex. "UA-123456789-0"
+    tracking_id          : "UA-125083817-3"
     anonymize_ip         : # true, false (default)
 
 
@@ -104,8 +104,8 @@ analytics:
 author:
   name             : "AppExchange Technical Enablement Experts"
   avatar           : "/assets/images/VMC-500x500.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Your Bio Here"
-  location         : "Your City, Your State"
+  bio              : "We help AppExchange Partners build amazing apps on the Salesforce platform."
+  location         : "San Francisco, CA"
   email            :
   links:
     - label: "Email"
@@ -130,15 +130,15 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
+    - label:  "Twitter"
+      icon:   "fab fa-fw fa-twitter-square"
+      url:    "https://twitter.com/AppExchange"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
+    - label:  "GitHub"
+      icon:   "fab fa-fw fa-github"
+      url:    "https://github.com/sfdx-isv"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
