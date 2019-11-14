@@ -12,15 +12,24 @@ header:
   actions:
     - label: "Begin Workshop"
       url: "/setup/overview/"
+feature_row:
+  - title: "Setting Up Your Environment"
+    image_path: /assets/images/PART_ONE_BANNER.png
+    excerpt: "* **Unit 1:** Getting a Hands-on Org\n
+              * **Unit 2:** Importing App Analytics Log Data\n 
+              * **Unit 3:** Combining Log Data and LMA Data"
+#    url: "/setup/overview/"
+#    btn_class: "btn--primary"
+#    btn_label: "Begin Part One"
+  - title: "Visualizing App Analytics Data"
+    image_path: /assets/images/PART_TWO_BANNER.png
+    excerpt: "* **Unit 1:** Identifying Top Customers\n
+              * **Unit 2:** Measuring Adoption & Feature Utilization\n
+              * **Unit 3:** Uncovering Risk & Opportunities\n
+              * **Unit 4:** Creating a Dashboard for Key Insights"
+#    url: "/visualization/overview/"
+#    btn_class: "btn--primary"
+#    btn_label: "Begin Part Two"
 ---
 
-**Part One: Setting Up Your Environment (8 mins)**
-* **Unit 1:** Getting a Hands-on Org
-* **Unit 2:** Importing App Analytics Log Data 
-* **Unit 3:** Combining Log Data and LMA Data 
-
-**Part Two: Visualizing App Analytics Data (25 mins)**
-* **Unit 1:** Identifying Top Customers
-* **Unit 2:** Measuring Adoption & Feature Utilization
-* **Unit 3:** Uncovering Risk & Opportunities
-* **Unit 4:** Creating a Dashboard for Key Insights
+{% include feature_row type="left" %}
